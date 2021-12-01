@@ -4,4 +4,4 @@ I have done this project during my industrial training (which was necessary in B
 
 > Implemented Linear Regression using Scikit-learn library to predict the outcome for a certain input.
 
-*Note: I did some changes in the project after completion of the training to make some improvements and for practice purposes.
+**Note: I did some changes in the project after completion of the training to make some improvements and for practice purposes.
