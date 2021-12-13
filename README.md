@@ -1,3 +1,4 @@
-# Data Science Projects
-
-These folders contain the projects I have worked on (for industrial training, NPTEL certication etc.) so far. **I have added README.md in each of these folders** so you can easily check out what the project was all about. Go through any of the projects you want.
+1. I have used **Dataframe_cleanup_NPTEL.ipynb** file to clean, organise and rectify the dataset **apy.csv**.
+2. **apy_filtered.csv** is the filtered dataset with null values removed, name of the crops rectified, I have also removed some crop like Apple, Pear etc. from the dataset because they do not contain any detailed information.
+3. You can find both the datasets (filtered and original) in **Datasets** folder.
+https://geodata.lib.utexas.edu/catalog/stanford-sh819zz8121
