@@ -5,5 +5,5 @@
 # Choropleth maps
 District wise crop production plots (Top 5 produced crops)
 
-[Coconut Production Map](/Datasets/Plots/coconut_production_avg.png)
+![Coconut Production Map](/../Assets/Assets/coconut_production_avg_reduced.png)
 https://geodata.lib.utexas.edu/catalog/stanford-sh819zz8121
