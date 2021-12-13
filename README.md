@@ -4,7 +4,6 @@
 
 # Choropleth maps
 District wise crop production plots like the following has been plotted for top 5 produced crops.
-
 ![Coconut Production Map](/../assets/Assets/coconut_production_avg_reduced.png)
 
 Note: 
