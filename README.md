@@ -6,6 +6,9 @@
 District wise crop production plots like the following has been plotted for top 5 produced crops using [**geopandas**](https://geopandas.org/en/stable/about.html) and [**matplotlib**](https://matplotlib.org/)
 ![Coconut Production Map](/../assets/Assets/coconut_production_avg_reduced.png)
 
+# Year-wise crop production plot
+Total crop production is plotted with years like following with **matplotlib** and smoothening is done by **scipy.interpolate**
+
 Note: 
 
 Shapefile of the Map used in this project can be found [here](https://geodata.lib.utexas.edu/catalog/stanford-sh819zz8121)
