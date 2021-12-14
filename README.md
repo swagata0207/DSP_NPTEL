@@ -17,6 +17,9 @@ Plotted 'Production' as a dependent variable of 'Area' used for crop production.
 
 ![wheat avsp](/../assets/Assets/wheat_avsp_bfc.png)
 
+# Outlier removal
+Removed ouliers in Sugarcane production data frame which increased the **coefficient of determination (R^2 value)** by 22% approximately.
+
 Note: 
 
 Shapefile of the Map used in this project can be found [here](https://geodata.lib.utexas.edu/catalog/stanford-sh819zz8121)
