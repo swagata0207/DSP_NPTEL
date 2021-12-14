@@ -3,7 +3,7 @@
 3. You can find both the datasets (filtered and original) in **Datasets** folder.
 
 # Choropleth maps
-District wise crop production plots like the following has been plotted for top 5 produced crops.
+District wise crop production plots like the following has been plotted for top 5 produced crops using **geopandas** and **matplotlib**
 ![Coconut Production Map](/../assets/Assets/coconut_production_avg_reduced.png)
 
 Note: 
