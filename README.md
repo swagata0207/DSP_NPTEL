@@ -4,11 +4,18 @@
 
 # Choropleth maps
 District wise crop production plots like the following has been plotted for top 5 produced crops using [**geopandas**](https://geopandas.org/en/stable/about.html) and [**matplotlib**](https://matplotlib.org/)
+
 ![Coconut Production Map](/../assets/Assets/coconut_production_avg_reduced.png)
 
 # Year-wise crop production plot
 Total crop production is plotted with years like following with **matplotlib** and smoothening is done by **scipy.interpolate**.
+
 ![Yearly rice production](/../assets/Assets/rice_yrp.png)
+
+# Machine Learning model deployment
+Plotted 'Production' as a dependent variable of 'Area' used for crop production. Splitted dataset into different slices (for different crops) and deployed regression model (mostly polynomial regression, random forest regression in one case) to predict the production. Best fit curves are plotted on the scatterplot of the test dataset like following one.
+
+![]()
 
 Note: 
 
