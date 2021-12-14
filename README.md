@@ -7,7 +7,8 @@ District wise crop production plots like the following has been plotted for top 
 ![Coconut Production Map](/../assets/Assets/coconut_production_avg_reduced.png)
 
 # Year-wise crop production plot
-Total crop production is plotted with years like following with **matplotlib** and smoothening is done by **scipy.interpolate**
+Total crop production is plotted with years like following with **matplotlib** and smoothening is done by **scipy.interpolate**.
+![Yearly rice production](/../assets/Assets/rice_yrp.png)
 
 Note: 
 
