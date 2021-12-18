@@ -12,7 +12,7 @@ Total crop production is plotted with years like following with **matplotlib** a
 
 ![Yearly rice production](/../assets/Assets/rice_yrp.png)
 
-# Machine Learning model deployment
+# Machine Learning model implementation
 Plotted 'Production' as a dependent variable of 'Area' used for crop production. Splitted dataset into different slices (for different crops) and deployed regression model (mostly polynomial regression, random forest regression in one case) to predict the production. Best fit curves are plotted on the scatterplot of the test dataset like following one.
 
 ![wheat avsp](/../assets/Assets/wheat_avsp_bfc.png)
